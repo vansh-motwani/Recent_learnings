@@ -37,7 +37,7 @@ event = {
     'timeZone': 'GMT+05:30',
 },
 'attendees': [
-    {'email': "k63814776@gmail.com"},
+    {'email': "vansh.student@gmail.com"},
 ],
 'reminders': {
     'useDefault': False,
